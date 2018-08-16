@@ -11,7 +11,7 @@
 
 session_start();
 $_SESSION["nama"]="sigit";
-
+                                                                                                                                                  
 ?>
 </body>
 </html>
